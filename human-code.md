@@ -15,14 +15,14 @@ Durante le vacanze ho fatto mille mila foto, ora come faccio a scegliere quella 
 
 - scopo trovare una foto di esterno e una di interno
 
-#####caratteristiche delle foto esterne:
+#####caratteristiche necessarie delle foto esterne, altrimenti verranno scartate:
 ######giusta esposizione
 ######a fuoco
 ######con tramonto nell'immagine
 
 - la foto con tutte le caratteristiche verrà scelta, condivisa su instagram stories, cliccando invio.
 
-#####caratteristiche delle foto interne:
+#####caratteristiche necessarie delle foto interne altrimenti non verranno scelte:
 
 ######presenza di 10 persone nella foto
 ######presenza dell'albero di Natale
