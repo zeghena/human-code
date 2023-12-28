@@ -14,10 +14,12 @@ Durante le vacanze ho fatto mille mila foto, ora come faccio a scegliere quella 
 ####metodo di ricerca delle foto:
 
 - scopo trovare una foto di esterno e una di interno
-  #####caratteristiche delle foto esterne:
-  ######giusta esposizione
-  ######a fuoco
-  ######con tramonto nell'immagine
+
+#####caratteristiche delle foto esterne:
+######giusta esposizione
+######a fuoco
+######con tramonto nell'immagine
+
 - la foto con tutte le caratteristiche verrà scelta, condivisa su instagram stories, cliccando invio.
 
 #####caratteristiche delle foto interne:
@@ -28,7 +30,7 @@ Durante le vacanze ho fatto mille mila foto, ora come faccio a scegliere quella 
 ######inquadratura allineata e verticale
 
 - la foto con tutte le caratteristiche verrà scelta, condivisa su instagram stories, cliccando invio.
-- cliccando sull'icona che riporta due lettere "A" aggiungiamo una scritta: Natale 2023
+- cliccando sull'icona che riporta due lettere "A" aggiungiamo una scritta: Natale in montagna 2023
 - clicchiamo invio
 - chiudiamo instagram
 - chiudiamo la galleria delle foto
